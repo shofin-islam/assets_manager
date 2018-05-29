@@ -46171,7 +46171,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                attrs: { href: "http://github.com/shofin-islam/assets_manager" }
+                attrs: { href: "https://github.com/shofin-islam/assetsmanager" }
               },
               [_vm._v("GITHUB/Shofin-Islam")]
             ),
